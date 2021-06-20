@@ -5,3 +5,5 @@
 - переменные терраформа `.tfvars`
 - локальные оверрайды `override.tf`
 - настройки интерфейса командной строки `.terraformrc`
+
+One line for git log
